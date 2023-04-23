@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
 
-- 🔭 I’m currently working as Software Engineer & interested in -> **Java Developer / Java Microservices Developer/ Java Backend Development / Full Stack Development.**
+- 🔭 I’m currently working as Software Engineer & interested in -> **Java Developer / Java Microservices Developer / Java Backend Development / Full Stack Development.**
 
 - 🌱 My Qualification -> **Computer Science and Engineering Graduate.**
 
