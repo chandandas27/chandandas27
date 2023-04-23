@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
 
-- 🔭 I’m currently working as Software Engineer & interested in -> **Java Full Stack Development / Java Backend Development / Full Stack Web Development.**
+- 🔭 I’m currently working as Software Engineer & interested in -> **Java Developer / Java Microservices Developer/ Java Backend Development / Full Stack Development.**
 
 - 🌱 My Qualification -> **Computer Science and Engineering Graduate.**
 
-- 💞️ My Skills -> **Java 17 ,Spring Framework 6, Spring Boot 3, Spring Security, REST API, Microservices, SQL, MongoDB, MERN Stack, AWS.**
+- 💞️ My Skills -> **Java 17 ,Spring Framework 6, Spring Boot 3, REST API, Microservices, SQL, Agile , AWS , MongoDB, MERN Stack.**
 
 - 🤝 I’m current looking for -> **Great opportunity to work on the above mentioned Tech-Stack / Job Roles.**
 
