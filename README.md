@@ -11,7 +11,7 @@
 
 - 🌱 My Qualification -> **Computer Science and Engineering Graduate.**
 
-- 💞️ My Skills -> **Java 17 ,Spring Framework 6, Spring Boot 3, REST API, Microservices, SQL, Agile , AWS , MongoDB, MERN Stack.**
+- 💞️ My Skills -> **Java 17, Spring Framework 6, Spring Boot 3, REST API, Microservices, SQL, Agile , AWS , MongoDB, MERN Stack.**
 
 - 🤝 I’m current looking for -> **Great opportunity to work on the above mentioned Tech-Stack / Job Roles.**
 
