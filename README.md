@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/56149197/218253739-19179460-9d2f-4bff-a827-908aba315999.png)](https://www.linkedin.com/in/chandan-das-49a214196/)
+[![MasterHead](https://github.com/chandandas27/chandandas27/assets/56149197/5176505a-ad49-4659-94a2-45ad3897c14e)](https://www.linkedin.com/in/chandan-das-49a214196/)
 
 
 <h1 align="center">Hey everyone, I’m Chandan Das 👋</h1>
@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
 
-- 🔭 I’m currently working as Software Engineer & interested in -> **Java Developer / Java Spring Boot Developer / Java Backend Development / Full Stack Development.**
+- 🔭 I’m currently working as Software Engineer & interested in -> ** SDET / Automation Test / Java Automation / QA / QE Enginner.**
 
 - 🌱 My Qualification -> **Computer Science and Engineering Graduate.**
 
-- 💞️ My Skills -> **Java 17, Spring Framework 6, Spring Boot 3, Quarkus, REST API, Microservices, MySQL, Agile , AWS , MongoDB, Angular, React.**
+- 💞️ My Skills -> **Java 17, Selenium Webdriver, REST Assured, TestNG, JUnit, Cucumber, Spring Boot, Quarkus, REST API, Microservices, MySQL, Agile , AWS , MongoDB.**
 
 - 🤝 I’m current looking for -> **Great opportunity to work on the above mentioned Tech-Stack / Job Roles.**
 
