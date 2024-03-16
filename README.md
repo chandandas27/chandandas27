@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
 
-- 🔭 I’m currently working as Software Engineer & interested in -> ** SDET / Automation Test / Java Automation / QA / QE Enginner.**
+- 🔭 I’m currently working as Software Engineer & interested in -> **SDET / Automation Test / Java Automation / QA / QE Enginner.**
 
 - 🌱 My Qualification -> **Computer Science and Engineering Graduate.**
 
