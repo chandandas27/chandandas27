@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
 
-- 🔭 I’m currently working as Software Engineer & interested in -> **SDET / Automation Test / Java Automation / QA / QE Enginner.**
+- 🔭 I’m currently working as Software Engineer & interested in -> **Software Developing and Testing highly available and reliable cloud based applications.**
 
 - 🌱 My Qualification -> **Computer Science and Engineering Graduate.**
 
-- 💞️ My Skills -> **Java 17, Selenium Webdriver, REST Assured, TestNG, JUnit, Cucumber, Spring Boot, Quarkus, REST API, Microservices, MySQL, Agile , AWS , MongoDB.**
+- 💞️ My Skills -> **Java, Spring Boot, Quarkus, REST API, Microservices, MySQL, Agile Scrum, MongoDB, Selenium Webdriver, REST Assured, TestNG, JUnit, BDD, Cucumber.**
 
 - 🤝 I’m current looking for -> **Great opportunity to work on the above mentioned Tech-Stack / Job Roles.**
 
