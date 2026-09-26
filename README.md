@@ -1,6 +1,3 @@
-[![MasterHead](https://github.com/chandandas27/chandandas27/assets/56149197/5176505a-ad49-4659-94a2-45ad3897c14e)](https://www.linkedin.com/in/chandan-das-49a214196/)
-
-
 <h1 align="center">👋 Hi everyone, I’m Chandan Das </h1>
 
 <h3 align="center">A Software Engineer</h3>
