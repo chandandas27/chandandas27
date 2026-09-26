@@ -4,29 +4,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
 
-I am a **Software Engineer** and **Computer Science & Engineering Graduate** dedicated to building, testing, and deploying highly available, reliable, and secure cloud-based applications. 
+I am an **AI-Native Software Engineer** and **Computer Science & Engineering Graduate** dedicated to building, testing, and deploying intelligent, highly available, and secure cloud applications. 
 
-I bridge the gap between robust backend architectures and modern frontend user experiences, with a strong focus on end-to-end (E2E) testing and real-time production hosting.
+I specialize in bridging the gap between robust enterprise backend systems, rapid AI/LLM application development, and modern responsive frontends with bulletproof automated testing.
 
 ---
 
 ### 🚀 What I Do
-* 💻 **Full-Stack Development:** Designing scalable microservices and dynamic, responsive web applications from scratch.
-* 🧪 **Automated Testing & QA:** Ensuring bulletproof code quality using advanced E2E testing frameworks.
-* 🌐 **DevOps & Deployment:** Taking side projects from local development to production, including purchasing domains and setting up live hosting environments.
+* 🤖 **AI-Native Development:** Building intelligent apps, context-aware AI agents, and RAG pipelines using cutting-edge LLM frameworks.
+* ⚡ **High-Performance APIs:** Creating blazing fast microservices and backend architectures using Python and Java frameworks.
+* 💻 **Full-Stack Integration:** Designing interactive user experiences in React/Next.js backed by smart AI orchestration layer.
+* 🌐 **DevOps & Production Hosting:** Launching applications seamlessly to production, managing custom domains, and orchestrating live cloud environments.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### **Backend & Databases**
+#### **🤖 AI-Native & Python Ecosystem**
+* `Python` • `FastAPI` • `LangChain` • `LlamaIndex` • `OpenAI / Anthropic APIs` • `RAG Pipelines` • `AI Agents` • `Vector DBs`
+
+#### **☕ Backend & Enterprise Systems**
 * `Java` • `Spring Boot` • `Quarkus` • `REST API` • `Microservices` • `MySQL` • `MongoDB` • `Agile Scrum`
 
-#### **Frontend & Languages**
-* `JavaScript` • `TypeScript` • `React` • `Next.js` • `HTML5/CSS3`
+#### **🌐 Frontend & User Interface**
+* `TypeScript` • `JavaScript` • `React` • `Next.js` • `HTML5 / CSS3`
 
-#### **Testing & Automation**
-* `Playwright` • `Selenium WebDriver` • `REST Assured` • `TestNG` • `JUnit` • `BDD` • `Cucumber`
+#### **🧪 Automation, QA & E2E Testing**
+* `Playwright` • `Selenium WebDriver` • `REST Assured` • `TestNG` • `JUnit` • `BDD / Cucumber`
+
 
 ---
 
