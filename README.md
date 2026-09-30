@@ -1,3 +1,5 @@
+<p align="left"> <img width="1584" height="396" alt="Software Engineer" src="https://github.com/user-attachments/assets/7af611be-5e03-46c8-818d-9dd93a468aad" /> </p>
+
 <h1 align="center">👋 Hi everyone, I’m Chandan Das </h1>
 
 <h3 align="center">A Software Engineer</h3>
