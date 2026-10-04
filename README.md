@@ -4,8 +4,6 @@
 
 <h3 align="center">A Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandandas27&label=Profile%20views&color=0e75b6&style=flat" alt="chandandas27" /> </p>
-
 I am an **AI-Native Software Engineer** and **Computer Science & Engineering Graduate** dedicated to building, testing, and deploying intelligent, highly available, and secure cloud applications. 
 
 I specialize in bridging the gap between robust enterprise backend systems, rapid AI/LLM application development, and modern responsive frontends with bulletproof automated testing.
